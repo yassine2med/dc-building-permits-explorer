@@ -1,5 +1,7 @@
 # dc-building-permits-explorer
 
+[![CI](https://github.com/yassine2med/dc-building-permits-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/dc-building-permits-explorer/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Counts building permits and sums declared cost from a permit CSV, with a text bar chart.
 
 ![Screenshot](docs/screenshot.png)
